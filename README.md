@@ -11,7 +11,7 @@
 <pre class="wp-block-code"><code>
 class YandexCloudApi
 {
-    protected $token = 'y0_AgAAAAAN-K9DAAm3KAA12AAADhGaGI82NaryL2TbKJe-KBHnVbafWjkEI';
+    protected $token = 'test_123';
     protected $basicApiUrl = 'https://cloud-api.yandex.net/v1/disk/';
 
     /**
