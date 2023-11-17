@@ -1,7 +1,7 @@
 # yandex-cloud-api-php
 Класс для работы с API Яндекс.Диск на PHP и Curl. Данный класс позволяет работать с добавлением, удалением и получением файлав с Яндекс диска.
 
-Курс работе с API Яндекс.Диск - https://prog-time.ru/course_cat/yandeks-disk-api-php/
+Курс по работе с API Яндекс.Диск - https://prog-time.ru/course_cat/yandeks-disk-api-php/
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Класс для работы с Яндекс.Диск через API</h2>
